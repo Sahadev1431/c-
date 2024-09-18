@@ -1,0 +1,24 @@
+Roll no             :264
+Name                :sahadev
+Stream              :mca
+Marks in subject    1:45
+Marks in subject    2:98
+Marks in subject    3:78
+Marks in subject    4:99
+Marks in subject    5:100
+Total marks         :420
+Percentage          :84
+Student has passed
+
+Roll no             :40
+Name                :jatin
+Stream              :mca
+Marks in subject    1:68
+Marks in subject    2:89
+Marks in subject    3:78
+Marks in subject    4:68
+Marks in subject    5:100
+Total marks         :403
+Percentage          :80.6
+Student has passed
+
